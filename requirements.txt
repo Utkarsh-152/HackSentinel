@@ -1,0 +1,8 @@
+setuptools
+flask
+requests
+beautifulsoup4
+scrapy
+newspaper3k
+nltk
+pandas
